@@ -20,8 +20,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# <div id="header" align="center">
+ # <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasininf&show_icons=true&theme=algolia&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasininf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
