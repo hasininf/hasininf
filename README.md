@@ -1,14 +1,21 @@
 # 👋 Halo! Saya Hasin Inf
 
-## Mengenai Saya
-Saya adalah seorang **Developer** yang berdedikasi di [SMK Putra Bangsa](https://www.smkpbwaru.sch.id/). 
-Fokus utama saya adalah memastikan **kualitas** dan **performa optimal** dari aset *website* [SMK Putra Bangsa](https://www.smkpbwaru.sch.id/).
+## 🚀 Mengenai Saya
+Saya adalah seorang **Web dan Mobile App Developer** yang bersemangat, saat ini berdedikasi di [SMK Putra Bangsa](https://www.smkpbwaru.sch.id/).
+
+Fokus utama saya adalah **mengembangkan** dan **memastikan kualitas** produk digital, baik untuk aset *website* maupun aplikasi seluler. Saya berkomitmen untuk menciptakan solusi digital yang **fungsional, efisien, dan memiliki performa optimal.**
 
 ---
 
-## Keahlian & Kualifikasi
+## 🛠️ Keahlian Teknis & Kualifikasi
 
-Saya terus mengembangkan diri di bidang teknologi dan telah dibekali dengan sertifikasi dari Dicoding, antara lain:
+Saya terus mengembangkan diri di bidang teknologi dan memiliki kompetensi di area Pengembangan Web dan Mobile. Kualifikasi yang telah saya peroleh meliputi:
+
+* **Pengembangan Aplikasi Seluler (Mobile App)**
+* **Pemrograman Web (Frontend & Backend)**
+* **DevOps Dasar**
+
+### Sertifikasi (Dicoding):
 * [Belajar Dasar-dasar Dev Ops](https://www.dicoding.com/certificates/MEPJKL116X3V)
 * [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/N9ZO4DLW6ZG5)
 * [Belajar Dasar Pemrograman Java Script](https://www.dicoding.com/certificates/6RPN639MRP2M)
@@ -17,7 +24,7 @@ Saya terus mengembangkan diri di bidang teknologi dan telah dibekali dengan sert
 
 ## 🌐 Mari Terhubung
 
-Saya terbuka untuk diskusi mengenai pengembangan *web*, teknologi, atau kesempatan kolaborasi.
+Saya sangat terbuka untuk berdiskusi tentang teknologi, peluang kolaborasi, atau sekadar berbagi pengetahuan di bidang Pengembangan Web dan Mobile.
 * **LinkedIn:** [Hasin Emhatech](https://www.linkedin.com/in/hasinsam/) (Silakan ikuti atau kirim pesan!)
 
 ---
