@@ -18,7 +18,7 @@ Saya terus mengembangkan diri di bidang teknologi dan telah dibekali dengan sert
 ## 🌐 Mari Terhubung
 
 Saya terbuka untuk diskusi mengenai pengembangan *web*, teknologi, atau kesempatan kolaborasi.
-* **LinkedIn:** [Hasin Emhatech](https://www.linkedin.com/in/hasin-emhatech/) (Silakan ikuti atau kirim pesan!)
+* **LinkedIn:** [Hasin Emhatech](https://www.linkedin.com/in/hasinsam/) (Silakan ikuti atau kirim pesan!)
 
 ---
 
