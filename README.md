@@ -25,7 +25,7 @@ Saya terus mengembangkan diri di bidang teknologi dan memiliki kompetensi di are
 ## 🌐 Mari Terhubung
 
 Saya sangat terbuka untuk berdiskusi tentang teknologi, peluang kolaborasi, atau sekadar berbagi pengetahuan di bidang Pengembangan Web dan Mobile.
-* **LinkedIn:** [Hasin Emhatech](https://www.linkedin.com/in/hasinsam/) (Silakan ikuti atau kirim pesan!)
+* **LinkedIn:** [Hasin](https://www.linkedin.com/in/hasinsam/) (Silakan ikuti atau kirim pesan!)
 
 ---
 
