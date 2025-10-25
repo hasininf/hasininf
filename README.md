@@ -33,7 +33,7 @@ Saya sangat terbuka untuk berdiskusi tentang teknologi, peluang kolaborasi, atau
 
 <p align="left">
   <a href="https://github.com/hasininf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasininf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Statistik GitHub Hasin Inf"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasininf" alt="Statistik GitHub Hasin Inf"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasininf&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Bahasa Populer Hasin Inf"/>
   </a>
 </p>
