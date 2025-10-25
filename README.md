@@ -1,4 +1,4 @@
-# 👋 Halo! Saya Hasin Inf
+# 👋 Halo! Saya Hasin
 
 ## 🚀 Mengenai Saya
 Saya adalah seorang **Web dan Mobile App Developer** yang bersemangat, saat ini berdedikasi di [SMK Putra Bangsa](https://www.smkpbwaru.sch.id/).
