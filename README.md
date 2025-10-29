@@ -1,3 +1,23 @@
+# Hi 👋! My name is hasininf and I'm a Fullstack Web Developer from Indonesia
+
+[![hasininf's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasininf&show_icons=true&theme=dark)](https://github.com/hasininf/github-readme-stats)
+
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasininf)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/hasininf)  
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/hasininf)  
+
+![Fun GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
+
 
 # 👋 Halo! Saya Hasin
 
