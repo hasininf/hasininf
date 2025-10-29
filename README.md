@@ -1,22 +1,39 @@
-# Hi 👋! My name is hasininf and I'm a Fullstack Web Developer from Indonesia
+# Hi, I'm Hasininf 👋
 
-[![hasininf's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasininf&show_icons=true&theme=dark)](https://github.com/hasininf/github-readme-stats)
+I'm a passionate Fullstack Web Developer from Indonesia specializing in building scalable and maintainable web applications.
 
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
 
-## Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasininf)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/hasininf)  
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/hasininf)  
+## 🔧 Skills & Technologies
 
-![Fun GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+- **Frontend:** JavaScript (ES6+), React, Vue.js, HTML5, CSS3, Tailwind CSS  
+- **Backend:** PHP (Laravel), Node.js, RESTful API, GraphQL  
+- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, AWS, CI/CD pipelines
 
+---
+
+## 🚀 Current Focus
+
+- Developing modern, responsive web applications with best practices  
+- Optimizing performance and accessibility  
+- Learning advanced cloud infrastructure and microservices architecture
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/hasininf](https://linkedin.com/in/hasininf)  
+- Email: your-email@example.com  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+![Hasininf's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasininf&show_icons=true&theme=vue)
+
+---
+
+Thank you for visiting my profile!
 
 
 # 👋 Halo! Saya Hasin
