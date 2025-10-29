@@ -1,3 +1,15 @@
+# Hi, I’m Siam Al Sobari 👋
+
+I’m a software developer passionate about building reliable, scalable web applications and continuously improving my craft.
+
+- 🔧 Current focus: Full‑stack development with Laravel & Vue.js  
+- 🚀 Recently working on: Modernizing legacy systems, optimizing workflows  
+- 🌱 Learning: Cloud infrastructure and microservices architecture  
+- 📫 Connect: [linkedin.com/in/SiamAlSobari](https://linkedin.com/in/SiamAlSobari) • siam.al.sobari@example.com
+
+Thanks for stopping by — let’s build something great together!
+
+
 # 👋 Halo! Saya Hasin
 
 ## 🚀 Mengenai Saya
