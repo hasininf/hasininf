@@ -1,4 +1,4 @@
-# Hi, I'm Hasininf 👋
+# Hi, I'm HASIN 👋
 
 I'm a passionate Fullstack Web Developer from Indonesia specializing in building scalable and maintainable web applications.
 
